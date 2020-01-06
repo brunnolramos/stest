@@ -49,6 +49,7 @@ O código acima está:
 
 
 ** Referências **
+
 https://data-flair.training/blogs/apache-spark-lazy-evaluation/
 https://www.infoq.com/br/articles/mapreduce-vs-spark/
 https://www.devmedia.com.br/introducao-ao-apache-spark/34178
